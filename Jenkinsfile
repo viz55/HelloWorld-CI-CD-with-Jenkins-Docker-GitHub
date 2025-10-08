@@ -8,7 +8,7 @@ pipeline {
             }
             steps {
                 echo 'Compiling Java Program inside Docker container...'
-                sh 'javac hello_world.java'
+                sh 'javac HelloWorld.java'
             }
         }
 
