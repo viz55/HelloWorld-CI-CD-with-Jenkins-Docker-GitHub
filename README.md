@@ -67,11 +67,9 @@ Wait for the Jenkins to Install suggested plugins.
 
 <img width="1291" height="596" alt="215959294-047eadef-7e64-4795-bd3b-b1efb0375988" src="https://github.com/user-attachments/assets/b043eef7-4cbe-49e4-b408-fb3ac6bbbf4d" />
 
-Create First Admin User or Skip the step [It is recommended to  create admin user if this Jenkins instance is to be used for future use-cases.]
+##### Create First Admin User or Skip the step [It is recommended to create admin user if this Jenkins instance is to be used for future purposes.]
 
-<img width="990" height="616" alt="215959757-403246c8-e739-4103-9265-6bdab418013e" src="https://github.com/user-attachments/assets/5839a0ca-e58f-4513-b97a-335e0c101f35" />
-
-Jenkins Installation is Successful. 
+Jenkins is Successfully installed! 
 
 <img width="990" height="616" alt="215961440-3f13f82b-61a2-4117-88bc-0da265a67fa7" src="https://github.com/user-attachments/assets/7cb50970-081a-4d36-9449-0d7e3887d291" />
 
